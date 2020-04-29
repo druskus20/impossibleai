@@ -20,3 +20,8 @@ Yes, but if the neural network lacks speed, you can always try reducing the spee
 
 This project is based on: 
 https://github.com/ikergarcia1996/Self-Driving-Car-in-Video-Games
+
+## Autores
+- [Pedro Burgos Gonzalo](https://github.com/druskus20)
+- [Javier Holgueras Crespo](https://github.com/javihc)
+- [Sergio Garcia Bustos](https://github.com/SGarcia4)
