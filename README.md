@@ -13,7 +13,7 @@ This network learns from examples of people playing the game, so we need to reco
 We can test our model by running the game and letting the neural network decide when It has to jump. 
 
 ## Do you need powerful hardware to run the network
-Yes, but if the neural network lacks speed, you can always try reducing the speed of the game using LINK CHEAT ENGINE
+Yes, but if the neural network lacks speed, you can always try reducing the speed of the game using [Cheat Engine](https://www.cheatengine.org)
 
 ## Reference
 [Video](https://youtu.be/u9vJA7DSV2c)
