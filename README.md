@@ -6,7 +6,7 @@ A neural network trained to beat the impossible game
 
 ## How does it work?
 <p align="center">
-  <img src="./images/NN.png" width="200" height="500">
+  <img src="./images/NN.png" width="200">
 </p>
 This network learns from examples of people playing the game, so we need to record the data beforehand. Because we dont want out network to learn from people's mistakes, we remove automatically the deaths fragments in the original videos. Once all this is done, and after some light preprocesing, the data is packed in a compressed numpy file, which is used to train the model.
 
